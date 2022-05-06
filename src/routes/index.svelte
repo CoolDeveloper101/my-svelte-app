@@ -4,6 +4,7 @@
 
 <script lang="ts">
 	import Counter from '$lib/Counter.svelte';
+	console.log("Index visited!");
 </script>
 
 <svelte:head>
